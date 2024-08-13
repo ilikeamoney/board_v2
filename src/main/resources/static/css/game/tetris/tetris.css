@@ -1,0 +1,10 @@
+#tetris-div {
+    margin: 0 auto;
+}
+
+#tetris-map tr td {
+    width: 15px;
+    height: 15px;
+    border: 1px solid black;
+    text-align: center;
+}
